@@ -23,4 +23,8 @@ async function start() {
     await app.listen(PORT, () => console.log(`Server started on port = ${PORT}`))
 }
 
+// main.ts точка входа в приложение
+
+
+
 start()
